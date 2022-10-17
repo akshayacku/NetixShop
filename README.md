@@ -1,1 +1,1 @@
-# NetixShop
+# NetixShop.
